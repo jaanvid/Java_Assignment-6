@@ -7,6 +7,7 @@ The Fixed_STK class implements a fixed-size stack using an array.
 The Growable_STK class implements a growable stack using an ArrayList.
 The Interface_STK interface defines methods for stack operations.
 The StackDemo class demonstrates the usage of both fixed and growable stacks.
+
 Part 2: Multiple Interface
 The InterfaceExam interface defines methods for displaying exam details and calculating percentage.
 The Result class extends the Student class and implements the InterfaceExam interface to display exam details and calculate percentage.
